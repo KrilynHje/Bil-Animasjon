@@ -91,11 +91,11 @@ animation: wheel 1s linear infinite;
 }
 
 .back-wheel{
-    left: -145px;
+    left: -140px;
     position: absolute;
 }   
 .front-wheel{
-    left: 90px;
+    left: 95px;
     position: absolute;
 }
 
