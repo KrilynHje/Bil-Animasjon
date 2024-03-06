@@ -2,7 +2,7 @@ document.getElementById('openModal').addEventListener('click', function() {
    document.getElementById('myModal').style.display = "block";
     //document.getElementById('audioPlayer').play();;
     var audioPlayer = document.getElementById('audioPlayer');
-    audioPlayer.volume = 0.15; // Set the volume to 50%
+    audioPlayer.volume = 0.2; // Set the default volume to 
     audioPlayer.play();
     
    });
